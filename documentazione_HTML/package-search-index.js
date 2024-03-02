@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gestione_bilancio"},{"l":"gestione_bilancio.gestione_dati_bilancio"},{"l":"gestione_bilancio.gestione_esportazione"},{"l":"gestione_bilancio.gestione_menu"},{"l":"gestione_bilancio.gestione_salvataggio_caricamento"},{"l":"gestione_bilancio.gestione_tabella"}];updateSearchResults();

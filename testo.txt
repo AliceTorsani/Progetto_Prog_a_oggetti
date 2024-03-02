@@ -1,0 +1,6 @@
+2022-12-25	spesa1	-10.0
+2022-12-24	entrata 1	50.0
+2023-01-02	Inserire descrizione	0.0
+2023-01-25	entrata2	30.0
+2023-01-25	spesa2	-20.0
+2023-01-25	Inserire descrizione	0.0
